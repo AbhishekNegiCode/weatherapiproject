@@ -1,0 +1,3 @@
+/Users/viveknegi/Documents/weather/weatherapi_project/build/CMakeFiles/weatherapi.dir
+/Users/viveknegi/Documents/weather/weatherapi_project/build/CMakeFiles/edit_cache.dir
+/Users/viveknegi/Documents/weather/weatherapi_project/build/CMakeFiles/rebuild_cache.dir
